@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**shrivastavvivek506-glitch/shrivastavvivek506-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shrivastavvivek506-glitch/shrivastavvivek506-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
